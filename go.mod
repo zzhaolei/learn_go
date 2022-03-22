@@ -1,3 +1,3 @@
-module github.com/zzhaolei/learn_go
+module learn_go
 
-go 1.17
+go 1.18
